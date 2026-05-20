@@ -4,7 +4,7 @@ Personalized onboarding email template for OrganicFit fitness app.
 
 ## 🔗 Live Preview
 
-👉 **👉 https://YOUR_USERNAME.github.io/organicfit-email/**
+👉 **👉 https://github.com/elenkar14-netizen/organicfit-email/**
 
 ## 📁 Structure
 
